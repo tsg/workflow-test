@@ -25,7 +25,8 @@ const tables = [
       { name: "name", type: "string" },
       { name: "email", type: "email" },
       { name: "bio", type: "text" },
-      { name: "test", type: "string" },
+      { name: "test2", type: "string" },
+      { name: "test1", type: "string" },
     ],
   },
 ] as const;
